@@ -1,25 +1,15 @@
 # 介绍
 
-本仓库是[ZK SHANGHAI 2023](https://zkshanghai.xyz/)的作业提交模板仓库。
+这个仓库是[ZK SHANGHAI 2023](https://zkshanghai.xyz/)的作业提交与展示的仓库，在[原仓库Template](https://github.com/SutuLabs/zkcourse-homework)上面创建出来。
 
-# 如何提交作业
 
-## 利用本仓库创建新的个人作业仓库
 
-![image](https://user-images.githubusercontent.com/2389606/230692915-6f84e64e-9323-4bd5-901d-79518424aaab.png)
+### 作业提交
 
-## 键入仓库名字zkshanghai-workshop，并确定创建
+作业总共12讲，每堂课程的作业都会在对应的Lecture文件中。
 
-![image](https://user-images.githubusercontent.com/2389606/230692926-c19dbff2-f1ac-406f-897a-21e4bbc6472d.png)
 
-## 新建仓库中选中准备完成的作业
 
-![image](https://user-images.githubusercontent.com/2389606/230692930-0dd32459-4f09-4a35-931d-a16c98e98ff2.png)
+### 学习笔记
 
-## 点击编辑即可开始完成作业的编写
-
-![image](https://user-images.githubusercontent.com/2389606/230692931-16324772-2356-4ec4-b6ba-372c16a515e4.png)
-
-## 最后记得**保存**作业！！！
-
-![image](https://user-images.githubusercontent.com/2389606/230692935-86859957-9bdb-4b1b-bda6-e097dfab35cd.png)
+我另外建了[一个Repo](https://github.com/libaice/zk-notes)来存放学习每堂课程中的一些学习笔记，笔记里面会存放每堂课程中学到的很多新的知识点。
