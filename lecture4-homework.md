@@ -1,5 +1,4 @@
 # 第4课 课后作业
 
-## 第1题 xxxxxx
+Check out https://semaphore.appliedzkp.org/ and set up a starter project!
 
-xxxxxx
